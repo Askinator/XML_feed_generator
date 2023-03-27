@@ -80,7 +80,7 @@ class Item : ProductFeed
 		this.gtin = "1234567890123";
 		this.color = "red";
 		string[] genOptions = {"Male", "Female", ""};
-		this.gender = genOptions[new Random().Next(1, genOptions.Length)];
+		this.gender = genOptions[new Random().Next(0, genOptions.Length)];
 		this.material = "cotton";
 		this.pattern = "striped";
 		this.size = "Small/Medium/Large";
