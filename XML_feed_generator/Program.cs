@@ -59,7 +59,8 @@ class Item : ProductFeed
 	public string material;
 	public string pattern;
 	public string size;
-	public static string[] google_product_categories = File.ReadAllLines("GoogleProductCategories.txt");
+	public static string[] google_product_categories = 
+		File.ReadAllLines("GoogleProductCategories.txt").Where(line => line.Contains("Apparel")).ToArray();
 	public int length = google_product_categories.Length;
 
 	public Item(string id)
@@ -70,14 +71,16 @@ class Item : ProductFeed
 		this.link = "http://demofeeditems.com/itemlink/" + id;
 		this.image_link = "http://demofeeditems.com/image/" + id;
 		this.availability = "in_stock";
-		this.price = "10.00 EUR";
-		this.sale_price = "5.00 EUR";
+		var priceInt = new Random().Next(10, 200);
+		this.price = priceInt + "DKK";
+		this.sale_price =  (0.3 * priceInt).ToString();
 		this.google_product_category = google_product_categories[new Random().Next(1, length)];
 		this.product_type = "Shirts & Tops";
 		this.brand = "Brand";
 		this.gtin = "1234567890123";
 		this.color = "red";
-		this.gender = "male";
+		string[] genOptions = {"Male", "Female", ""};
+		this.gender = genOptions[new Random().Next(1, genOptions.Length)];
 		this.material = "cotton";
 		this.pattern = "striped";
 		this.size = "Small/Medium/Large";
