@@ -23,19 +23,15 @@ class ProductFeed
 	}
 
 	private static IEnumerable<XElement> CreateElements(int n)
-	{
-		List<XElement> list = new();
+    {
+        XNamespace g = "http://base.google.com/ns/1.0";
 
-		for (int i = 1; i < n; i++)
-		{
-			list.Add(new Item(new Random().Next(10000,99999).ToString()).ToXml());
-		}
-
-		return list;
-	}
+        return Enumerable.Range(1, n - 1)
+            .Select(i => new Item(new Random().Next(10000, 99999).ToString()).ToXml());
+    }
 }
 
-class Item : ProductFeed
+class Item 
 {
 	public string id;
 	public string title;
@@ -67,8 +63,8 @@ class Item : ProductFeed
 		this.image_link = "http://demofeeditems.com/image/" + id;
 		this.availability = "in_stock";
 		var priceInt = new Random().Next(10, 200);
-		this.price = priceInt + "DKK";
-		this.sale_price =  (0.3 * priceInt).ToString();
+		this.price = priceInt + " DKK";
+		this.sale_price =  Math.Floor(0.3 * priceInt).ToString() + " DKK";
 		this.google_product_category = google_product_categories[new Random().Next(1, length)];
 		this.product_type = "Shirts & Tops";
 		this.brand = "Brand";
