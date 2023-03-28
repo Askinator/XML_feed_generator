@@ -20,8 +20,6 @@ class ProductFeed
 				));
 
 		document.Save(DocName + ".xml");
-
-		//System.Console.WriteLine(new Item("1").ToXml());
 	}
 
 	private static IEnumerable<XElement> CreateElements(int n)
@@ -36,9 +34,6 @@ class ProductFeed
 		return list;
 	}
 }
-//random int
-//Random rnd = new();
-//int id = rnd.Next(1, 1000000);
 
 class Item : ProductFeed
 {
