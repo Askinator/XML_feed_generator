@@ -46,7 +46,7 @@ class Item
     public string brand;
     public string gtin;
     public string color;
-    public string[] colors = File.ReadAllLines("Resources/Color.txt").ToArray();
+    public string[] colors = File.ReadAllLines("Resources/Colors.txt").ToArray();
     public string gender;
     public string[] materials = File.ReadAllLines("Resources/Materials.txt").ToArray();
     public string material;

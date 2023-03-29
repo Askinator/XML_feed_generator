@@ -3,594 +3,822 @@
   <channel>
     <title>Demo Google product feed</title>
     <link>https://link_to_feed.com</link>
-    <description>This is a reandomly generated Google product feed with 100 items</description>
+    <description>This is a reandomly generated Google product feed with 100 apperal items.</description>
     <item>
-      <g:id>63209</g:id>
-      <g:title>item63209</g:title>
+      <g:id>22187</g:id>
+      <g:title>item22187</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/63209</g:link>
-      <g:image_link>http://demofeeditems.com/image/63209</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/22187</g:link>
+      <g:image_link>http://demofeeditems.com/image/22187</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>40 DKK</g:price>
-      <g:sale_price>12 DKK</g:sale_price>
-      <g:google_product_category>8061 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Protective Pads</g:google_product_category>
+      <g:price>79 DKK</g:price>
+      <g:sale_price>23 DKK</g:sale_price>
+      <g:google_product_category>7003 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing &gt; Motorcycle Pants</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Aqua</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>44628</g:id>
+      <g:title>item44628</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/44628</g:link>
+      <g:image_link>http://demofeeditems.com/image/44628</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>166 DKK</g:price>
+      <g:sale_price>49 DKK</g:sale_price>
+      <g:google_product_category>3191 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Baseball Uniforms</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Khaki</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Leather</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>78590</g:id>
-      <g:title>item78590</g:title>
+      <g:id>50910</g:id>
+      <g:title>item50910</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/78590</g:link>
-      <g:image_link>http://demofeeditems.com/image/78590</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/50910</g:link>
+      <g:image_link>http://demofeeditems.com/image/50910</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>83 DKK</g:price>
-      <g:sale_price>24 DKK</g:sale_price>
-      <g:google_product_category>6460 - Apparel &amp; Accessories &gt; Handbag &amp; Wallet Accessories &gt; Checkbook Covers</g:google_product_category>
+      <g:price>55 DKK</g:price>
+      <g:sale_price>16 DKK</g:sale_price>
+      <g:google_product_category>1675 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Lingerie Accessories &gt; Garters</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Gold</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>92724</g:id>
-      <g:title>item92724</g:title>
+      <g:id>16608</g:id>
+      <g:title>item16608</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/92724</g:link>
-      <g:image_link>http://demofeeditems.com/image/92724</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/16608</g:link>
+      <g:image_link>http://demofeeditems.com/image/16608</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>35 DKK</g:price>
-      <g:sale_price>10 DKK</g:sale_price>
-      <g:google_product_category>178 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Sunglasses</g:google_product_category>
+      <g:price>15 DKK</g:price>
+      <g:sale_price>4 DKK</g:sale_price>
+      <g:google_product_category>5441 - Apparel &amp; Accessories &gt; Clothing &gt; Wedding &amp; Bridal Party Dresses</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Charcoal</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>23499</g:id>
-      <g:title>item23499</g:title>
+      <g:id>67479</g:id>
+      <g:title>item67479</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/23499</g:link>
-      <g:image_link>http://demofeeditems.com/image/23499</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/67479</g:link>
+      <g:image_link>http://demofeeditems.com/image/67479</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>125 DKK</g:price>
-      <g:sale_price>37 DKK</g:sale_price>
-      <g:google_product_category>5484 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Contractor Pants &amp; Coveralls</g:google_product_category>
+      <g:price>185 DKK</g:price>
+      <g:sale_price>55 DKK</g:sale_price>
+      <g:google_product_category>5517 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Gold</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>77782</g:id>
-      <g:title>item77782</g:title>
+      <g:id>74574</g:id>
+      <g:title>item74574</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/77782</g:link>
-      <g:image_link>http://demofeeditems.com/image/77782</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/74574</g:link>
+      <g:image_link>http://demofeeditems.com/image/74574</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>58 DKK</g:price>
+      <g:sale_price>17 DKK</g:sale_price>
+      <g:google_product_category>5460 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Hunting Clothing</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Olive</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>15531</g:id>
+      <g:title>item15531</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/15531</g:link>
+      <g:image_link>http://demofeeditems.com/image/15531</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99 DKK</g:price>
+      <g:sale_price>29 DKK</g:sale_price>
+      <g:google_product_category>7281 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Traditional Leather Pants</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Khaki</g:color>
+      <g:gender></g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Floral</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>42627</g:id>
+      <g:title>item42627</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/42627</g:link>
+      <g:image_link>http://demofeeditems.com/image/42627</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99 DKK</g:price>
+      <g:sale_price>29 DKK</g:sale_price>
+      <g:google_product_category>8149 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Religious Ceremonial Clothing &gt; Baptism &amp; Communion Dresses</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Burgundy</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>88789</g:id>
+      <g:title>item88789</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/88789</g:link>
+      <g:image_link>http://demofeeditems.com/image/88789</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>94 DKK</g:price>
+      <g:sale_price>28 DKK</g:sale_price>
+      <g:google_product_category>543645 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Pins, Claws &amp; Clips &gt; Hair Claws &amp; Clips</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Olive</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>36229</g:id>
+      <g:title>item36229</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/36229</g:link>
+      <g:image_link>http://demofeeditems.com/image/36229</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>13 DKK</g:price>
       <g:sale_price>3 DKK</g:sale_price>
-      <g:google_product_category>4179 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Pinback Buttons</g:google_product_category>
+      <g:google_product_category>7133 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hand Muffs</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>35797</g:id>
-      <g:title>item35797</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/35797</g:link>
-      <g:image_link>http://demofeeditems.com/image/35797</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>57 DKK</g:price>
-      <g:sale_price>17 DKK</g:sale_price>
-      <g:google_product_category>5387 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Shoes</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>90682</g:id>
-      <g:title>item90682</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/90682</g:link>
-      <g:image_link>http://demofeeditems.com/image/90682</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>167 DKK</g:price>
-      <g:sale_price>50 DKK</g:sale_price>
-      <g:google_product_category>5379 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Martial Arts Shorts</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Lavender</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Polyester</g:material>
+      <g:pattern>Geometric</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>27592</g:id>
-      <g:title>item27592</g:title>
+      <g:id>21954</g:id>
+      <g:title>item21954</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/27592</g:link>
-      <g:image_link>http://demofeeditems.com/image/27592</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/21954</g:link>
+      <g:image_link>http://demofeeditems.com/image/21954</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>83 DKK</g:price>
-      <g:sale_price>24 DKK</g:sale_price>
-      <g:google_product_category>5673 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimono Outerwear</g:google_product_category>
+      <g:price>89 DKK</g:price>
+      <g:sale_price>26 DKK</g:sale_price>
+      <g:google_product_category>1483 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Ponytail Holders</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>White</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>39291</g:id>
-      <g:title>item39291</g:title>
+      <g:id>65346</g:id>
+      <g:title>item65346</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/39291</g:link>
-      <g:image_link>http://demofeeditems.com/image/39291</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/65346</g:link>
+      <g:image_link>http://demofeeditems.com/image/65346</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>22 DKK</g:price>
-      <g:sale_price>6 DKK</g:sale_price>
-      <g:google_product_category>5343 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos</g:google_product_category>
+      <g:price>88 DKK</g:price>
+      <g:sale_price>26 DKK</g:sale_price>
+      <g:google_product_category>206 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; School Uniforms</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>LightBlue</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Animal Print</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>23005</g:id>
-      <g:title>item23005</g:title>
+      <g:id>49443</g:id>
+      <g:title>item49443</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/23005</g:link>
-      <g:image_link>http://demofeeditems.com/image/23005</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/49443</g:link>
+      <g:image_link>http://demofeeditems.com/image/49443</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>73 DKK</g:price>
+      <g:price>72 DKK</g:price>
       <g:sale_price>21 DKK</g:sale_price>
-      <g:google_product_category>1893 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Wristbands</g:google_product_category>
+      <g:google_product_category>499813 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Coral</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Cotton</g:material>
+      <g:pattern>Polka Dot</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>56634</g:id>
-      <g:title>item56634</g:title>
+      <g:id>30941</g:id>
+      <g:title>item30941</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/56634</g:link>
-      <g:image_link>http://demofeeditems.com/image/56634</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/30941</g:link>
+      <g:image_link>http://demofeeditems.com/image/30941</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>123 DKK</g:price>
-      <g:sale_price>36 DKK</g:sale_price>
-      <g:google_product_category>4179 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Pinback Buttons</g:google_product_category>
+      <g:price>21 DKK</g:price>
+      <g:sale_price>6 DKK</g:sale_price>
+      <g:google_product_category>2580 - Apparel &amp; Accessories &gt; Clothing &gt; Sleepwear &amp; Loungewear &gt; Pajamas</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Lavender</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Rayon</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>95122</g:id>
-      <g:title>item95122</g:title>
+      <g:id>46599</g:id>
+      <g:title>item46599</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/95122</g:link>
-      <g:image_link>http://demofeeditems.com/image/95122</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/46599</g:link>
+      <g:image_link>http://demofeeditems.com/image/46599</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>183 DKK</g:price>
-      <g:sale_price>54 DKK</g:sale_price>
+      <g:price>174 DKK</g:price>
+      <g:sale_price>52 DKK</g:sale_price>
+      <g:google_product_category>192 - Apparel &amp; Accessories &gt; Jewelry &gt; Charms &amp; Pendants</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Salmon</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>88528</g:id>
+      <g:title>item88528</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/88528</g:link>
+      <g:image_link>http://demofeeditems.com/image/88528</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>23 DKK</g:price>
+      <g:sale_price>6 DKK</g:sale_price>
+      <g:google_product_category>3913 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Belt Buckles</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Indigo</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Paisley</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>27533</g:id>
+      <g:title>item27533</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/27533</g:link>
+      <g:image_link>http://demofeeditems.com/image/27533</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>192 DKK</g:price>
+      <g:sale_price>57 DKK</g:sale_price>
+      <g:google_product_category>5425 - Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Outerwear</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>LightBlue</g:color>
+      <g:gender></g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Polka Dot</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>74231</g:id>
+      <g:title>item74231</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/74231</g:link>
+      <g:image_link>http://demofeeditems.com/image/74231</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15 DKK</g:price>
+      <g:sale_price>4 DKK</g:sale_price>
+      <g:google_product_category>499814 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Wetsuit Pieces</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>LightBlue</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>87629</g:id>
+      <g:title>item87629</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/87629</g:link>
+      <g:image_link>http://demofeeditems.com/image/87629</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>175 DKK</g:price>
+      <g:sale_price>52 DKK</g:sale_price>
+      <g:google_product_category>5194 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Masks</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Fuchsia</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>54436</g:id>
+      <g:title>item54436</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/54436</g:link>
+      <g:image_link>http://demofeeditems.com/image/54436</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>87 DKK</g:price>
+      <g:sale_price>26 DKK</g:sale_price>
+      <g:google_product_category>4003 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Martial Arts Uniforms</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Blue</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>36811</g:id>
+      <g:title>item36811</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/36811</g:link>
+      <g:image_link>http://demofeeditems.com/image/36811</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>42 DKK</g:price>
+      <g:sale_price>12 DKK</g:sale_price>
+      <g:google_product_category>190 - Apparel &amp; Accessories &gt; Jewelry &gt; Body Jewelry</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Navy</g:color>
+      <g:gender></g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern>Checkered</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>93428</g:id>
+      <g:title>item93428</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/93428</g:link>
+      <g:image_link>http://demofeeditems.com/image/93428</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>134 DKK</g:price>
+      <g:sale_price>40 DKK</g:sale_price>
       <g:google_product_category>2562 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Underwear</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Silver</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>55097</g:id>
-      <g:title>item55097</g:title>
+      <g:id>30691</g:id>
+      <g:title>item30691</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/55097</g:link>
-      <g:image_link>http://demofeeditems.com/image/55097</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/30691</g:link>
+      <g:image_link>http://demofeeditems.com/image/30691</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>145 DKK</g:price>
-      <g:sale_price>43 DKK</g:sale_price>
-      <g:google_product_category>1662 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Headbands</g:google_product_category>
+      <g:price>167 DKK</g:price>
+      <g:sale_price>50 DKK</g:sale_price>
+      <g:google_product_category>7475 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Cleat Accessories &gt; Bicycle Cleat Shims &amp; Wedges</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Charcoal</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Wool</g:material>
+      <g:pattern>Polka Dot</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>21678</g:id>
-      <g:title>item21678</g:title>
+      <g:id>26656</g:id>
+      <g:title>item26656</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/21678</g:link>
-      <g:image_link>http://demofeeditems.com/image/21678</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/26656</g:link>
+      <g:image_link>http://demofeeditems.com/image/26656</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>80 DKK</g:price>
-      <g:sale_price>24 DKK</g:sale_price>
-      <g:google_product_category>178 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Sunglasses</g:google_product_category>
+      <g:price>191 DKK</g:price>
+      <g:sale_price>57 DKK</g:sale_price>
+      <g:google_product_category>2563 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Lingerie Accessories</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>White</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Polka Dot</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>52591</g:id>
+      <g:title>item52591</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/52591</g:link>
+      <g:image_link>http://demofeeditems.com/image/52591</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25 DKK</g:price>
+      <g:sale_price>7 DKK</g:sale_price>
+      <g:google_product_category>3118 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Cleats</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Fuchsia</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Leather</g:material>
+      <g:pattern>Floral</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>33274</g:id>
-      <g:title>item33274</g:title>
+      <g:id>86488</g:id>
+      <g:title>item86488</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/33274</g:link>
-      <g:image_link>http://demofeeditems.com/image/33274</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/86488</g:link>
+      <g:image_link>http://demofeeditems.com/image/86488</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>88 DKK</g:price>
-      <g:sale_price>26 DKK</g:sale_price>
-      <g:google_product_category>2396 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Food Service Uniforms &gt; Chef's Jackets</g:google_product_category>
+      <g:price>14 DKK</g:price>
+      <g:sale_price>4 DKK</g:sale_price>
+      <g:google_product_category>6460 - Apparel &amp; Accessories &gt; Handbag &amp; Wallet Accessories &gt; Checkbook Covers</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Turquoise</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Denim</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>58262</g:id>
-      <g:title>item58262</g:title>
+      <g:id>66116</g:id>
+      <g:title>item66116</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/58262</g:link>
-      <g:image_link>http://demofeeditems.com/image/58262</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/66116</g:link>
+      <g:image_link>http://demofeeditems.com/image/66116</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>150 DKK</g:price>
-      <g:sale_price>45 DKK</g:sale_price>
-      <g:google_product_category>5598 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Coats &amp; Jackets</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>56822</g:id>
-      <g:title>item56822</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/56822</g:link>
-      <g:image_link>http://demofeeditems.com/image/56822</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>171 DKK</g:price>
-      <g:sale_price>51 DKK</g:sale_price>
-      <g:google_product_category>6268 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Leis</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>34156</g:id>
-      <g:title>item34156</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/34156</g:link>
-      <g:image_link>http://demofeeditems.com/image/34156</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>122 DKK</g:price>
-      <g:sale_price>36 DKK</g:sale_price>
-      <g:google_product_category>5379 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Martial Arts Shorts</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>77602</g:id>
-      <g:title>item77602</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/77602</g:link>
-      <g:image_link>http://demofeeditems.com/image/77602</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>13 DKK</g:price>
+      <g:price>11 DKK</g:price>
       <g:sale_price>3 DKK</g:sale_price>
-      <g:google_product_category>543646 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Pins, Claws &amp; Clips &gt; Barrettes</g:google_product_category>
+      <g:google_product_category>2668 - Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Wallets &amp; Money Clips</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Yellow</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Denim</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>89264</g:id>
-      <g:title>item89264</g:title>
+      <g:id>35823</g:id>
+      <g:title>item35823</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/89264</g:link>
-      <g:image_link>http://demofeeditems.com/image/89264</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/35823</g:link>
+      <g:image_link>http://demofeeditems.com/image/35823</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>65 DKK</g:price>
-      <g:sale_price>19 DKK</g:sale_price>
-      <g:google_product_category>5686 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Traditional Clothing Accessories &gt; Obi Accessories</g:google_product_category>
+      <g:price>116 DKK</g:price>
+      <g:sale_price>34 DKK</g:sale_price>
+      <g:google_product_category>5114 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Decorative Fans</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Turquoise</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>41605</g:id>
-      <g:title>item41605</g:title>
+      <g:id>19115</g:id>
+      <g:title>item19115</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/41605</g:link>
-      <g:image_link>http://demofeeditems.com/image/41605</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/19115</g:link>
+      <g:image_link>http://demofeeditems.com/image/19115</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>94 DKK</g:price>
-      <g:sale_price>28 DKK</g:sale_price>
-      <g:google_product_category>5183 - Apparel &amp; Accessories &gt; Clothing &gt; Suits &gt; Pant Suits</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>74514</g:id>
-      <g:title>item74514</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/74514</g:link>
-      <g:image_link>http://demofeeditems.com/image/74514</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>104 DKK</g:price>
-      <g:sale_price>31 DKK</g:sale_price>
-      <g:google_product_category>3066 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Rain Suits</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>81264</g:id>
-      <g:title>item81264</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/81264</g:link>
-      <g:image_link>http://demofeeditems.com/image/81264</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>194 DKK</g:price>
+      <g:price>195 DKK</g:price>
       <g:sale_price>58 DKK</g:sale_price>
-      <g:google_product_category>6169 - Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Business Card Cases</g:google_product_category>
+      <g:google_product_category>5441 - Apparel &amp; Accessories &gt; Clothing &gt; Wedding &amp; Bridal Party Dresses</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Teal</g:color>
+      <g:gender></g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Houndstooth</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>82638</g:id>
-      <g:title>item82638</g:title>
+      <g:id>24436</g:id>
+      <g:title>item24436</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/82638</g:link>
-      <g:image_link>http://demofeeditems.com/image/82638</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/24436</g:link>
+      <g:image_link>http://demofeeditems.com/image/24436</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>70 DKK</g:price>
+      <g:sale_price>21 DKK</g:sale_price>
+      <g:google_product_category>5673 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimono Outerwear</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Coral</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>69453</g:id>
+      <g:title>item69453</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/69453</g:link>
+      <g:image_link>http://demofeeditems.com/image/69453</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>53 DKK</g:price>
+      <g:sale_price>15 DKK</g:sale_price>
+      <g:google_product_category>5123 - Apparel &amp; Accessories &gt; Jewelry &gt; Watch Accessories &gt; Watch Bands</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Lavender</g:color>
+      <g:gender></g:gender>
+      <g:material>Linen</g:material>
+      <g:pattern>Floral</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>15336</g:id>
+      <g:title>item15336</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/15336</g:link>
+      <g:image_link>http://demofeeditems.com/image/15336</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>143 DKK</g:price>
+      <g:sale_price>42 DKK</g:sale_price>
+      <g:google_product_category>3272 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Shoe Covers</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Turquoise</g:color>
+      <g:gender></g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Polka Dot</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>31514</g:id>
+      <g:title>item31514</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/31514</g:link>
+      <g:image_link>http://demofeeditems.com/image/31514</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>130 DKK</g:price>
       <g:sale_price>39 DKK</g:sale_price>
-      <g:google_product_category>3032 - Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
+      <g:google_product_category>169 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Belts</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Tan</g:color>
+      <g:gender></g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>31102</g:id>
-      <g:title>item31102</g:title>
+      <g:id>76164</g:id>
+      <g:title>item76164</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/31102</g:link>
-      <g:image_link>http://demofeeditems.com/image/31102</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/76164</g:link>
+      <g:image_link>http://demofeeditems.com/image/76164</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>194 DKK</g:price>
-      <g:sale_price>58 DKK</g:sale_price>
-      <g:google_product_category>6169 - Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Business Card Cases</g:google_product_category>
+      <g:price>180 DKK</g:price>
+      <g:sale_price>54 DKK</g:sale_price>
+      <g:google_product_category>3455 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Bicycle Activewear &gt; Bicycle Jerseys</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Cream</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Denim</g:material>
+      <g:pattern>Animal Print</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>85111</g:id>
-      <g:title>item85111</g:title>
+      <g:id>71524</g:id>
+      <g:title>item71524</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/85111</g:link>
-      <g:image_link>http://demofeeditems.com/image/85111</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/71524</g:link>
+      <g:image_link>http://demofeeditems.com/image/71524</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>188 DKK</g:price>
-      <g:sale_price>56 DKK</g:sale_price>
-      <g:google_product_category>5513 - Apparel &amp; Accessories &gt; Clothing &gt; Sleepwear &amp; Loungewear &gt; Nightgowns</g:google_product_category>
+      <g:price>29 DKK</g:price>
+      <g:sale_price>8 DKK</g:sale_price>
+      <g:google_product_category>5914 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Tiaras</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Gold</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Checkered</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>81071</g:id>
-      <g:title>item81071</g:title>
+      <g:id>10450</g:id>
+      <g:title>item10450</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/81071</g:link>
-      <g:image_link>http://demofeeditems.com/image/81071</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/10450</g:link>
+      <g:image_link>http://demofeeditems.com/image/10450</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>54 DKK</g:price>
+      <g:price>36 DKK</g:price>
+      <g:sale_price>10 DKK</g:sale_price>
+      <g:google_product_category>7003 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing &gt; Motorcycle Pants</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Purple</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>25466</g:id>
+      <g:title>item25466</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/25466</g:link>
+      <g:image_link>http://demofeeditems.com/image/25466</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159 DKK</g:price>
+      <g:sale_price>47 DKK</g:sale_price>
+      <g:google_product_category>5514 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Rain Pants</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Gray</g:color>
+      <g:gender></g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>31704</g:id>
+      <g:title>item31704</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/31704</g:link>
+      <g:image_link>http://demofeeditems.com/image/31704</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>112 DKK</g:price>
+      <g:sale_price>33 DKK</g:sale_price>
+      <g:google_product_category>3376 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Rash Guards &amp; Swim Shirts</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Red</g:color>
+      <g:gender></g:gender>
+      <g:material>Linen</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>19101</g:id>
+      <g:title>item19101</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/19101</g:link>
+      <g:image_link>http://demofeeditems.com/image/19101</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150 DKK</g:price>
+      <g:sale_price>45 DKK</g:sale_price>
+      <g:google_product_category>5193 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costumes</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Fuchsia</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>71808</g:id>
+      <g:title>item71808</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/71808</g:link>
+      <g:image_link>http://demofeeditems.com/image/71808</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>197 DKK</g:price>
+      <g:sale_price>59 DKK</g:sale_price>
+      <g:google_product_category>6984 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Collar Stays</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Peach</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Gingham</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>95555</g:id>
+      <g:title>item95555</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/95555</g:link>
+      <g:image_link>http://demofeeditems.com/image/95555</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>32 DKK</g:price>
+      <g:sale_price>9 DKK</g:sale_price>
+      <g:google_product_category>7208 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Bra Accessories &gt; Bra Strap Pads</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Teal</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>62815</g:id>
+      <g:title>item62815</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/62815</g:link>
+      <g:image_link>http://demofeeditems.com/image/62815</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55 DKK</g:price>
       <g:sale_price>16 DKK</g:sale_price>
-      <g:google_product_category>5549 - Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Diaper Covers</g:google_product_category>
+      <g:google_product_category>3958 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Hockey Uniforms</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Beige</g:color>
+      <g:gender></g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Floral</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>43858</g:id>
-      <g:title>item43858</g:title>
+      <g:id>55102</g:id>
+      <g:title>item55102</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/43858</g:link>
-      <g:image_link>http://demofeeditems.com/image/43858</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/55102</g:link>
+      <g:image_link>http://demofeeditems.com/image/55102</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>177 DKK</g:price>
-      <g:sale_price>53 DKK</g:sale_price>
-      <g:google_product_category>166 - Apparel &amp; Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>10744</g:id>
-      <g:title>item10744</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/10744</g:link>
-      <g:image_link>http://demofeeditems.com/image/10744</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>73 DKK</g:price>
-      <g:sale_price>21 DKK</g:sale_price>
-      <g:google_product_category>1786 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Balaclavas</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>89621</g:id>
-      <g:title>item89621</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/89621</g:link>
-      <g:image_link>http://demofeeditems.com/image/89621</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>176 DKK</g:price>
-      <g:sale_price>52 DKK</g:sale_price>
+      <g:price>41 DKK</g:price>
+      <g:sale_price>12 DKK</g:sale_price>
       <g:google_product_category>2396 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Food Service Uniforms &gt; Chef's Jackets</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Silver</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>43938</g:id>
-      <g:title>item43938</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/43938</g:link>
-      <g:image_link>http://demofeeditems.com/image/43938</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>102 DKK</g:price>
-      <g:sale_price>30 DKK</g:sale_price>
-      <g:google_product_category>5549 - Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Diaper Covers</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Wool</g:material>
+      <g:pattern>Houndstooth</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
@@ -600,1289 +828,1061 @@
       <g:link>http://demofeeditems.com/itemlink/19891</g:link>
       <g:image_link>http://demofeeditems.com/image/19891</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>25 DKK</g:price>
-      <g:sale_price>7 DKK</g:sale_price>
-      <g:google_product_category>5674 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Hakama Trousers</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>14443</g:id>
-      <g:title>item14443</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/14443</g:link>
-      <g:image_link>http://demofeeditems.com/image/14443</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>85 DKK</g:price>
-      <g:sale_price>25 DKK</g:sale_price>
-      <g:google_product_category>201 - Apparel &amp; Accessories &gt; Jewelry &gt; Watches</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>24524</g:id>
-      <g:title>item24524</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/24524</g:link>
-      <g:image_link>http://demofeeditems.com/image/24524</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>11 DKK</g:price>
-      <g:sale_price>3 DKK</g:sale_price>
-      <g:google_product_category>2271 - Apparel &amp; Accessories &gt; Clothing &gt; Dresses</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>77212</g:id>
-      <g:title>item77212</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/77212</g:link>
-      <g:image_link>http://demofeeditems.com/image/77212</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>91 DKK</g:price>
-      <g:sale_price>27 DKK</g:sale_price>
-      <g:google_product_category>7471 - Apparel &amp; Accessories &gt; Jewelry &gt; Watch Accessories &gt; Watch Stickers &amp; Decals</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>49994</g:id>
-      <g:title>item49994</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/49994</g:link>
-      <g:image_link>http://demofeeditems.com/image/49994</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>150 DKK</g:price>
-      <g:sale_price>45 DKK</g:sale_price>
-      <g:google_product_category>171 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>25386</g:id>
-      <g:title>item25386</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/25386</g:link>
-      <g:image_link>http://demofeeditems.com/image/25386</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>79 DKK</g:price>
-      <g:sale_price>23 DKK</g:sale_price>
-      <g:google_product_category>3379 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Softball Uniforms</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>13790</g:id>
-      <g:title>item13790</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/13790</g:link>
-      <g:image_link>http://demofeeditems.com/image/13790</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>198 DKK</g:price>
-      <g:sale_price>59 DKK</g:sale_price>
-      <g:google_product_category>5685 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Traditional Clothing Accessories &gt; Tabi Socks</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>32416</g:id>
-      <g:title>item32416</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/32416</g:link>
-      <g:image_link>http://demofeeditems.com/image/32416</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>67 DKK</g:price>
-      <g:sale_price>20 DKK</g:sale_price>
-      <g:google_product_category>8248 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Saris &amp; Lehengas</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>88880</g:id>
-      <g:title>item88880</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/88880</g:link>
-      <g:image_link>http://demofeeditems.com/image/88880</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>83 DKK</g:price>
-      <g:sale_price>24 DKK</g:sale_price>
-      <g:google_product_category>177 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Scarves &amp; Shawls</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>78754</g:id>
-      <g:title>item78754</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/78754</g:link>
-      <g:image_link>http://demofeeditems.com/image/78754</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>61 DKK</g:price>
-      <g:sale_price>18 DKK</g:sale_price>
-      <g:google_product_category>180 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Tie Clips</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>57633</g:id>
-      <g:title>item57633</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/57633</g:link>
-      <g:image_link>http://demofeeditems.com/image/57633</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>157 DKK</g:price>
+      <g:price>159 DKK</g:price>
       <g:sale_price>47 DKK</g:sale_price>
-      <g:google_product_category>499814 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Wetsuit Pieces</g:google_product_category>
+      <g:google_product_category>5426 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Costume Hats</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Brown</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Rayon</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>86054</g:id>
-      <g:title>item86054</g:title>
+      <g:id>15454</g:id>
+      <g:title>item15454</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/86054</g:link>
-      <g:image_link>http://demofeeditems.com/image/86054</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/15454</g:link>
+      <g:image_link>http://demofeeditems.com/image/15454</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>164 DKK</g:price>
-      <g:sale_price>49 DKK</g:sale_price>
-      <g:google_product_category>5941 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Leg Warmers</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>34130</g:id>
-      <g:title>item34130</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/34130</g:link>
-      <g:image_link>http://demofeeditems.com/image/34130</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>104 DKK</g:price>
-      <g:sale_price>31 DKK</g:sale_price>
-      <g:google_product_category>209 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Socks</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>33107</g:id>
-      <g:title>item33107</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/33107</g:link>
-      <g:image_link>http://demofeeditems.com/image/33107</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>63 DKK</g:price>
-      <g:sale_price>18 DKK</g:sale_price>
-      <g:google_product_category>6496 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Life Jacket Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>19386</g:id>
-      <g:title>item19386</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/19386</g:link>
-      <g:image_link>http://demofeeditems.com/image/19386</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>139 DKK</g:price>
-      <g:sale_price>41 DKK</g:sale_price>
-      <g:google_product_category>1138 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Drysuits</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>91511</g:id>
-      <g:title>item91511</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/91511</g:link>
-      <g:image_link>http://demofeeditems.com/image/91511</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>25 DKK</g:price>
-      <g:sale_price>7 DKK</g:sale_price>
-      <g:google_product_category>543586 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Bandanas &amp; Headties &gt; Bandanas</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>85307</g:id>
-      <g:title>item85307</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/85307</g:link>
-      <g:image_link>http://demofeeditems.com/image/85307</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>96 DKK</g:price>
-      <g:sale_price>28 DKK</g:sale_price>
-      <g:google_product_category>5681 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos &gt; Iromuji Kimonos</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>72242</g:id>
-      <g:title>item72242</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/72242</g:link>
-      <g:image_link>http://demofeeditems.com/image/72242</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>180 DKK</g:price>
-      <g:sale_price>54 DKK</g:sale_price>
-      <g:google_product_category>3379 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Softball Uniforms</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>40570</g:id>
-      <g:title>item40570</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/40570</g:link>
-      <g:image_link>http://demofeeditems.com/image/40570</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>77 DKK</g:price>
-      <g:sale_price>23 DKK</g:sale_price>
-      <g:google_product_category>5624 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby &amp; Toddler Gloves &amp; Mittens</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>79620</g:id>
-      <g:title>item79620</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/79620</g:link>
-      <g:image_link>http://demofeeditems.com/image/79620</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>78 DKK</g:price>
-      <g:sale_price>23 DKK</g:sale_price>
-      <g:google_product_category>5322 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>70138</g:id>
-      <g:title>item70138</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/70138</g:link>
-      <g:image_link>http://demofeeditems.com/image/70138</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>43 DKK</g:price>
-      <g:sale_price>12 DKK</g:sale_price>
-      <g:google_product_category>5626 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby Protective Wear</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>65514</g:id>
-      <g:title>item65514</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/65514</g:link>
-      <g:image_link>http://demofeeditems.com/image/65514</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>194 DKK</g:price>
-      <g:sale_price>58 DKK</g:sale_price>
-      <g:google_product_category>5461 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Hunting Clothing &gt; Hunting &amp; Fishing Vests</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>36543</g:id>
-      <g:title>item36543</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/36543</g:link>
-      <g:image_link>http://demofeeditems.com/image/36543</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>83 DKK</g:price>
-      <g:sale_price>24 DKK</g:sale_price>
-      <g:google_product_category>2306 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>40395</g:id>
-      <g:title>item40395</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/40395</g:link>
-      <g:image_link>http://demofeeditems.com/image/40395</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>156 DKK</g:price>
-      <g:sale_price>46 DKK</g:sale_price>
-      <g:google_product_category>5624 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby &amp; Toddler Gloves &amp; Mittens</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>74557</g:id>
-      <g:title>item74557</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/74557</g:link>
-      <g:image_link>http://demofeeditems.com/image/74557</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>43 DKK</g:price>
-      <g:sale_price>12 DKK</g:sale_price>
-      <g:google_product_category>5909 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Snow Pants &amp; Suits</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>70646</g:id>
-      <g:title>item70646</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/70646</g:link>
-      <g:image_link>http://demofeeditems.com/image/70646</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>125 DKK</g:price>
-      <g:sale_price>37 DKK</g:sale_price>
-      <g:google_product_category>197 - Apparel &amp; Accessories &gt; Jewelry &gt; Brooches &amp; Lapel Pins</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>32400</g:id>
-      <g:title>item32400</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/32400</g:link>
-      <g:image_link>http://demofeeditems.com/image/32400</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>190 DKK</g:price>
-      <g:sale_price>57 DKK</g:sale_price>
-      <g:google_product_category>3314 - Sporting Goods &gt; Outdoor Recreation &gt; Climbing &gt; Climbing Apparel &amp; Accessories &gt; Climbing Helmets</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>46154</g:id>
-      <g:title>item46154</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/46154</g:link>
-      <g:image_link>http://demofeeditems.com/image/46154</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>47 DKK</g:price>
-      <g:sale_price>14 DKK</g:sale_price>
-      <g:google_product_category>7474 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Cleat Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>25369</g:id>
-      <g:title>item25369</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/25369</g:link>
-      <g:image_link>http://demofeeditems.com/image/25369</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>163 DKK</g:price>
-      <g:sale_price>48 DKK</g:sale_price>
-      <g:google_product_category>5623 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby &amp; Toddler Belts</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>32494</g:id>
-      <g:title>item32494</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/32494</g:link>
-      <g:image_link>http://demofeeditems.com/image/32494</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>189 DKK</g:price>
+      <g:price>187 DKK</g:price>
       <g:sale_price>56 DKK</g:sale_price>
-      <g:google_product_category>5004 - Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Apparel</g:google_product_category>
+      <g:google_product_category>213 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Gold</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Cotton</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>84461</g:id>
-      <g:title>item84461</g:title>
+      <g:id>21478</g:id>
+      <g:title>item21478</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/84461</g:link>
-      <g:image_link>http://demofeeditems.com/image/84461</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/21478</g:link>
+      <g:image_link>http://demofeeditems.com/image/21478</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>37 DKK</g:price>
-      <g:sale_price>11 DKK</g:sale_price>
-      <g:google_product_category>184 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories</g:google_product_category>
+      <g:price>138 DKK</g:price>
+      <g:sale_price>41 DKK</g:sale_price>
+      <g:google_product_category>5841 - Apparel &amp; Accessories &gt; Handbag &amp; Wallet Accessories &gt; Wallet Chains</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Magenta</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Polyester</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>78972</g:id>
-      <g:title>item78972</g:title>
+      <g:id>51820</g:id>
+      <g:title>item51820</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/78972</g:link>
-      <g:image_link>http://demofeeditems.com/image/78972</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/51820</g:link>
+      <g:image_link>http://demofeeditems.com/image/51820</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>108 DKK</g:price>
-      <g:sale_price>32 DKK</g:sale_price>
-      <g:google_product_category>3032 - Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
+      <g:price>105 DKK</g:price>
+      <g:sale_price>31 DKK</g:sale_price>
+      <g:google_product_category>2292 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; White Coats</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Magenta</g:color>
+      <g:gender></g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Gingham</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>76114</g:id>
-      <g:title>item76114</g:title>
+      <g:id>55276</g:id>
+      <g:title>item55276</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/76114</g:link>
-      <g:image_link>http://demofeeditems.com/image/76114</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/55276</g:link>
+      <g:image_link>http://demofeeditems.com/image/55276</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>51 DKK</g:price>
-      <g:sale_price>15 DKK</g:sale_price>
+      <g:price>153 DKK</g:price>
+      <g:sale_price>45 DKK</g:sale_price>
+      <g:google_product_category>5412 - Apparel &amp; Accessories &gt; Clothing &gt; Baby &amp; Toddler Clothing &gt; Baby &amp; Toddler Sleepwear</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>ForestGreen</g:color>
+      <g:gender></g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>40393</g:id>
+      <g:title>item40393</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/40393</g:link>
+      <g:image_link>http://demofeeditems.com/image/40393</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>44 DKK</g:price>
+      <g:sale_price>13 DKK</g:sale_price>
       <g:google_product_category>8149 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Religious Ceremonial Clothing &gt; Baptism &amp; Communion Dresses</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Peach</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Suede</g:material>
+      <g:pattern>Floral</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>92954</g:id>
-      <g:title>item92954</g:title>
+      <g:id>58971</g:id>
+      <g:title>item58971</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/92954</g:link>
-      <g:image_link>http://demofeeditems.com/image/92954</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/58971</g:link>
+      <g:image_link>http://demofeeditems.com/image/58971</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>152 DKK</g:price>
-      <g:sale_price>45 DKK</g:sale_price>
-      <g:google_product_category>193 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Cufflinks</g:google_product_category>
+      <g:price>115 DKK</g:price>
+      <g:sale_price>34 DKK</g:sale_price>
+      <g:google_product_category>5004 - Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Apparel</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>91229</g:id>
-      <g:title>item91229</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/91229</g:link>
-      <g:image_link>http://demofeeditems.com/image/91229</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>138 DKK</g:price>
-      <g:sale_price>41 DKK</g:sale_price>
-      <g:google_product_category>201 - Apparel &amp; Accessories &gt; Jewelry &gt; Watches</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Beige</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Wool</g:material>
+      <g:pattern>Checkered</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>84126</g:id>
-      <g:title>item84126</g:title>
+      <g:id>77872</g:id>
+      <g:title>item77872</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/84126</g:link>
-      <g:image_link>http://demofeeditems.com/image/84126</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/77872</g:link>
+      <g:image_link>http://demofeeditems.com/image/77872</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>104 DKK</g:price>
-      <g:sale_price>31 DKK</g:sale_price>
-      <g:google_product_category>5624 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby &amp; Toddler Gloves &amp; Mittens</g:google_product_category>
+      <g:price>25 DKK</g:price>
+      <g:sale_price>7 DKK</g:sale_price>
+      <g:google_product_category>5594 - Sporting Goods &gt; Outdoor Recreation &gt; Equestrian &gt; Riding Apparel &amp; Accessories</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Lavender</g:color>
+      <g:gender></g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Animal Print</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>82341</g:id>
-      <g:title>item82341</g:title>
+      <g:id>13949</g:id>
+      <g:title>item13949</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/82341</g:link>
-      <g:image_link>http://demofeeditems.com/image/82341</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/13949</g:link>
+      <g:image_link>http://demofeeditems.com/image/13949</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>161 DKK</g:price>
-      <g:sale_price>48 DKK</g:sale_price>
+      <g:price>101 DKK</g:price>
+      <g:sale_price>30 DKK</g:sale_price>
+      <g:google_product_category>8451 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Bun &amp; Volume Shapers</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Coral</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>51916</g:id>
+      <g:title>item51916</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/51916</g:link>
+      <g:image_link>http://demofeeditems.com/image/51916</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>147 DKK</g:price>
+      <g:sale_price>44 DKK</g:sale_price>
+      <g:google_product_category>500008 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Costume Tobacco Products</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>ForestGreen</g:color>
+      <g:gender></g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Gingham</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>91004</g:id>
+      <g:title>item91004</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/91004</g:link>
+      <g:image_link>http://demofeeditems.com/image/91004</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>18 DKK</g:price>
+      <g:sale_price>5 DKK</g:sale_price>
+      <g:google_product_category>6870 - Apparel &amp; Accessories &gt; Jewelry &gt; Watch Accessories &gt; Watch Winders</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Mauve</g:color>
+      <g:gender></g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>61599</g:id>
+      <g:title>item61599</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/61599</g:link>
+      <g:image_link>http://demofeeditems.com/image/61599</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>187 DKK</g:price>
+      <g:sale_price>56 DKK</g:sale_price>
+      <g:google_product_category>5907 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Costume Capes</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Burgundy</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>40380</g:id>
+      <g:title>item40380</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/40380</g:link>
+      <g:image_link>http://demofeeditems.com/image/40380</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24 DKK</g:price>
+      <g:sale_price>7 DKK</g:sale_price>
+      <g:google_product_category>8200 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Costume Gloves</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Teal</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>29133</g:id>
+      <g:title>item29133</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/29133</g:link>
+      <g:image_link>http://demofeeditems.com/image/29133</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>93 DKK</g:price>
+      <g:sale_price>27 DKK</g:sale_price>
+      <g:google_product_category>7230 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Neck Gaiters</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>White</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>39894</g:id>
+      <g:title>item39894</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/39894</g:link>
+      <g:image_link>http://demofeeditems.com/image/39894</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>107 DKK</g:price>
+      <g:sale_price>32 DKK</g:sale_price>
+      <g:google_product_category>1893 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Wristbands</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Turquoise</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Checkered</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>55337</g:id>
+      <g:title>item55337</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/55337</g:link>
+      <g:image_link>http://demofeeditems.com/image/55337</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>77 DKK</g:price>
+      <g:sale_price>23 DKK</g:sale_price>
+      <g:google_product_category>5343 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Turquoise</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Houndstooth</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>41125</g:id>
+      <g:title>item41125</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/41125</g:link>
+      <g:image_link>http://demofeeditems.com/image/41125</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30 DKK</g:price>
+      <g:sale_price>9 DKK</g:sale_price>
+      <g:google_product_category>5682 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos &gt; Furisode Kimonos</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Orange</g:color>
+      <g:gender></g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>90175</g:id>
+      <g:title>item90175</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/90175</g:link>
+      <g:image_link>http://demofeeditems.com/image/90175</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>165 DKK</g:price>
+      <g:sale_price>49 DKK</g:sale_price>
+      <g:google_product_category>2427 - Apparel &amp; Accessories &gt; Shoe Accessories &gt; Spurs</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Red</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>43672</g:id>
+      <g:title>item43672</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/43672</g:link>
+      <g:image_link>http://demofeeditems.com/image/43672</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>126 DKK</g:price>
+      <g:sale_price>37 DKK</g:sale_price>
+      <g:google_product_category>1948 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Forks &amp; Sticks</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>SkyBlue</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Checkered</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>93881</g:id>
+      <g:title>item93881</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/93881</g:link>
+      <g:image_link>http://demofeeditems.com/image/93881</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>191 DKK</g:price>
+      <g:sale_price>57 DKK</g:sale_price>
+      <g:google_product_category>176 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Neckties</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Tan</g:color>
+      <g:gender></g:gender>
+      <g:material>Linen</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>63928</g:id>
+      <g:title>item63928</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/63928</g:link>
+      <g:image_link>http://demofeeditems.com/image/63928</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100 DKK</g:price>
+      <g:sale_price>30 DKK</g:sale_price>
+      <g:google_product_category>1772 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Lingerie</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Maroon</g:color>
+      <g:gender></g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Floral</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>84888</g:id>
+      <g:title>item84888</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/84888</g:link>
+      <g:image_link>http://demofeeditems.com/image/84888</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>102 DKK</g:price>
+      <g:sale_price>30 DKK</g:sale_price>
       <g:google_product_category>6227 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Japanese Black Formal Wear</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>68648</g:id>
-      <g:title>item68648</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/68648</g:link>
-      <g:image_link>http://demofeeditems.com/image/68648</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>174 DKK</g:price>
-      <g:sale_price>52 DKK</g:sale_price>
-      <g:google_product_category>7471 - Apparel &amp; Accessories &gt; Jewelry &gt; Watch Accessories &gt; Watch Stickers &amp; Decals</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>44326</g:id>
-      <g:title>item44326</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/44326</g:link>
-      <g:image_link>http://demofeeditems.com/image/44326</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>184 DKK</g:price>
-      <g:sale_price>55 DKK</g:sale_price>
-      <g:google_product_category>1831 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Vests</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>White</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Silk</g:material>
+      <g:pattern>Striped</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>29142</g:id>
-      <g:title>item29142</g:title>
+      <g:id>51024</g:id>
+      <g:title>item51024</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/29142</g:link>
-      <g:image_link>http://demofeeditems.com/image/29142</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/51024</g:link>
+      <g:image_link>http://demofeeditems.com/image/51024</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>36 DKK</g:price>
-      <g:sale_price>10 DKK</g:sale_price>
-      <g:google_product_category>7305 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Wig Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>23812</g:id>
-      <g:title>item23812</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/23812</g:link>
-      <g:image_link>http://demofeeditems.com/image/23812</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>46 DKK</g:price>
-      <g:sale_price>13 DKK</g:sale_price>
-      <g:google_product_category>1029 - Sporting Goods &gt; Outdoor Recreation &gt; Cycling &gt; Cycling Apparel &amp; Accessories &gt; Bicycle Helmets</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>72307</g:id>
-      <g:title>item72307</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/72307</g:link>
-      <g:image_link>http://demofeeditems.com/image/72307</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>165 DKK</g:price>
-      <g:sale_price>49 DKK</g:sale_price>
-      <g:google_product_category>502988 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Pins, Claws &amp; Clips</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>87623</g:id>
-      <g:title>item87623</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/87623</g:link>
-      <g:image_link>http://demofeeditems.com/image/87623</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>76 DKK</g:price>
+      <g:price>75 DKK</g:price>
       <g:sale_price>22 DKK</g:sale_price>
-      <g:google_product_category>5567 - Apparel &amp; Accessories &gt; Shoe Accessories &gt; Boot Liners</g:google_product_category>
+      <g:google_product_category>184 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>38436</g:id>
-      <g:title>item38436</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/38436</g:link>
-      <g:image_link>http://demofeeditems.com/image/38436</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>59 DKK</g:price>
-      <g:sale_price>17 DKK</g:sale_price>
-      <g:google_product_category>543587 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Bandanas &amp; Headties &gt; Hair Care Wraps</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Burgundy</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Leather</g:material>
+      <g:pattern>Gingham</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>11159</g:id>
-      <g:title>item11159</g:title>
+      <g:id>29252</g:id>
+      <g:title>item29252</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/11159</g:link>
-      <g:image_link>http://demofeeditems.com/image/11159</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/29252</g:link>
+      <g:image_link>http://demofeeditems.com/image/29252</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>47 DKK</g:price>
-      <g:sale_price>14 DKK</g:sale_price>
-      <g:google_product_category>7133 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hand Muffs</g:google_product_category>
+      <g:price>106 DKK</g:price>
+      <g:sale_price>31 DKK</g:sale_price>
+      <g:google_product_category>5441 - Apparel &amp; Accessories &gt; Clothing &gt; Wedding &amp; Bridal Party Dresses</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>92996</g:id>
-      <g:title>item92996</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/92996</g:link>
-      <g:image_link>http://demofeeditems.com/image/92996</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>70 DKK</g:price>
-      <g:sale_price>21 DKK</g:sale_price>
-      <g:google_product_category>7078 - Apparel &amp; Accessories &gt; Shoe Accessories &gt; Gaiters</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>38450</g:id>
-      <g:title>item38450</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/38450</g:link>
-      <g:image_link>http://demofeeditems.com/image/38450</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>139 DKK</g:price>
-      <g:sale_price>41 DKK</g:sale_price>
-      <g:google_product_category>2020 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Headwear</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>White</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Linen</g:material>
+      <g:pattern>Gingham</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>63602</g:id>
-      <g:title>item63602</g:title>
+      <g:id>75594</g:id>
+      <g:title>item75594</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/63602</g:link>
-      <g:image_link>http://demofeeditems.com/image/63602</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/75594</g:link>
+      <g:image_link>http://demofeeditems.com/image/75594</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>165 DKK</g:price>
-      <g:sale_price>49 DKK</g:sale_price>
-      <g:google_product_category>5915 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Wreaths</g:google_product_category>
+      <g:price>61 DKK</g:price>
+      <g:sale_price>18 DKK</g:sale_price>
+      <g:google_product_category>5841 - Apparel &amp; Accessories &gt; Handbag &amp; Wallet Accessories &gt; Wallet Chains</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>40611</g:id>
-      <g:title>item40611</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/40611</g:link>
-      <g:image_link>http://demofeeditems.com/image/40611</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>127 DKK</g:price>
-      <g:sale_price>38 DKK</g:sale_price>
-      <g:google_product_category>502988 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Hair Accessories &gt; Hair Pins, Claws &amp; Clips</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>72186</g:id>
-      <g:title>item72186</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/72186</g:link>
-      <g:image_link>http://demofeeditems.com/image/72186</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>47 DKK</g:price>
-      <g:sale_price>14 DKK</g:sale_price>
-      <g:google_product_category>212 - Apparel &amp; Accessories &gt; Clothing &gt; Shirts &amp; Tops</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>59411</g:id>
-      <g:title>item59411</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/59411</g:link>
-      <g:image_link>http://demofeeditems.com/image/59411</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>156 DKK</g:price>
-      <g:sale_price>46 DKK</g:sale_price>
-      <g:google_product_category>6496 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Life Jacket Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>68006</g:id>
-      <g:title>item68006</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/68006</g:link>
-      <g:image_link>http://demofeeditems.com/image/68006</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>33 DKK</g:price>
-      <g:sale_price>9 DKK</g:sale_price>
-      <g:google_product_category>4179 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Pinback Buttons</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>85280</g:id>
-      <g:title>item85280</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/85280</g:link>
-      <g:image_link>http://demofeeditems.com/image/85280</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>58 DKK</g:price>
-      <g:sale_price>17 DKK</g:sale_price>
-      <g:google_product_category>499815 - Sporting Goods &gt; Outdoor Recreation &gt; Climbing &gt; Climbing Apparel &amp; Accessories</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Cream</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Leather</g:material>
+      <g:pattern>Gingham</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>48832</g:id>
-      <g:title>item48832</g:title>
+      <g:id>23652</g:id>
+      <g:title>item23652</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/48832</g:link>
-      <g:image_link>http://demofeeditems.com/image/48832</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/23652</g:link>
+      <g:image_link>http://demofeeditems.com/image/23652</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>57 DKK</g:price>
-      <g:sale_price>17 DKK</g:sale_price>
-      <g:google_product_category>194 - Apparel &amp; Accessories &gt; Jewelry &gt; Earrings</g:google_product_category>
+      <g:price>141 DKK</g:price>
+      <g:sale_price>42 DKK</g:sale_price>
+      <g:google_product_category>5385 - Apparel &amp; Accessories &gt; Shoe Accessories &gt; Shoe Covers</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>17290</g:id>
-      <g:title>item17290</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/17290</g:link>
-      <g:image_link>http://demofeeditems.com/image/17290</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>110 DKK</g:price>
-      <g:sale_price>33 DKK</g:sale_price>
-      <g:google_product_category>1516 - Apparel &amp; Accessories &gt; Clothing &gt; Suits &gt; Skirt Suits</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>73154</g:id>
-      <g:title>item73154</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/73154</g:link>
-      <g:image_link>http://demofeeditems.com/image/73154</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>73 DKK</g:price>
-      <g:sale_price>21 DKK</g:sale_price>
-      <g:google_product_category>5329 - Apparel &amp; Accessories &gt; Clothing &gt; Wedding &amp; Bridal Party Dresses &gt; Wedding Dresses</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Purple</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Nylon</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>33081</g:id>
-      <g:title>item33081</g:title>
+      <g:id>51665</g:id>
+      <g:title>item51665</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/33081</g:link>
-      <g:image_link>http://demofeeditems.com/image/33081</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/51665</g:link>
+      <g:image_link>http://demofeeditems.com/image/51665</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>37 DKK</g:price>
-      <g:sale_price>11 DKK</g:sale_price>
-      <g:google_product_category>5681 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos &gt; Iromuji Kimonos</g:google_product_category>
+      <g:price>177 DKK</g:price>
+      <g:sale_price>53 DKK</g:sale_price>
+      <g:google_product_category>5401 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Wetsuit Pieces &gt; Wetsuit Tops</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Gold</g:color>
       <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Polyester</g:material>
+      <g:pattern>Checkered</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>71474</g:id>
-      <g:title>item71474</g:title>
+      <g:id>89459</g:id>
+      <g:title>item89459</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/71474</g:link>
-      <g:image_link>http://demofeeditems.com/image/71474</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/89459</g:link>
+      <g:image_link>http://demofeeditems.com/image/89459</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>43 DKK</g:price>
-      <g:sale_price>12 DKK</g:sale_price>
-      <g:google_product_category>169 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Belts</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>73389</g:id>
-      <g:title>item73389</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/73389</g:link>
-      <g:image_link>http://demofeeditems.com/image/73389</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>23 DKK</g:price>
-      <g:sale_price>6 DKK</g:sale_price>
-      <g:google_product_category>2302 - Apparel &amp; Accessories &gt; Clothing &gt; Sleepwear &amp; Loungewear &gt; Robes</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>84832</g:id>
-      <g:title>item84832</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/84832</g:link>
-      <g:image_link>http://demofeeditems.com/image/84832</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>188 DKK</g:price>
-      <g:sale_price>56 DKK</g:sale_price>
-      <g:google_product_category>5685 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Traditional Clothing Accessories &gt; Tabi Socks</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>65190</g:id>
-      <g:title>item65190</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/65190</g:link>
-      <g:image_link>http://demofeeditems.com/image/65190</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>22 DKK</g:price>
-      <g:sale_price>6 DKK</g:sale_price>
+      <g:price>85 DKK</g:price>
+      <g:sale_price>25 DKK</g:sale_price>
       <g:google_product_category>3821 - Sporting Goods &gt; Outdoor Recreation &gt; Equestrian &gt; Riding Apparel &amp; Accessories &gt; Equestrian Helmets</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Khaki</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Nylon</g:material>
+      <g:pattern>Animal Print</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>85008</g:id>
-      <g:title>item85008</g:title>
+      <g:id>38627</g:id>
+      <g:title>item38627</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/85008</g:link>
-      <g:image_link>http://demofeeditems.com/image/85008</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/38627</g:link>
+      <g:image_link>http://demofeeditems.com/image/38627</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>55 DKK</g:price>
-      <g:sale_price>16 DKK</g:sale_price>
+      <g:price>151 DKK</g:price>
+      <g:sale_price>45 DKK</g:sale_price>
+      <g:google_product_category>2562 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Underwear</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>ForestGreen</g:color>
+      <g:gender></g:gender>
+      <g:material>Linen</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>85380</g:id>
+      <g:title>item85380</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/85380</g:link>
+      <g:image_link>http://demofeeditems.com/image/85380</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>12 DKK</g:price>
+      <g:sale_price>3 DKK</g:sale_price>
+      <g:google_product_category>5841 - Apparel &amp; Accessories &gt; Handbag &amp; Wallet Accessories &gt; Wallet Chains</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Salmon</g:color>
+      <g:gender></g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Paisley</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>72588</g:id>
+      <g:title>item72588</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/72588</g:link>
+      <g:image_link>http://demofeeditems.com/image/72588</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>102 DKK</g:price>
+      <g:sale_price>30 DKK</g:sale_price>
+      <g:google_product_category>208 - Apparel &amp; Accessories &gt; Clothing &gt; Sleepwear &amp; Loungewear</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Magenta</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Suede</g:material>
+      <g:pattern>Striped</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>75564</g:id>
+      <g:title>item75564</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/75564</g:link>
+      <g:image_link>http://demofeeditems.com/image/75564</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>136 DKK</g:price>
+      <g:sale_price>40 DKK</g:sale_price>
+      <g:google_product_category>8018 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Pretend Jewelry</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Salmon</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>78644</g:id>
+      <g:title>item78644</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/78644</g:link>
+      <g:image_link>http://demofeeditems.com/image/78644</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150 DKK</g:price>
+      <g:sale_price>45 DKK</g:sale_price>
+      <g:google_product_category>5878 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Flight Suits</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Beige</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>87768</g:id>
+      <g:title>item87768</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/87768</g:link>
+      <g:image_link>http://demofeeditems.com/image/87768</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>42 DKK</g:price>
+      <g:sale_price>12 DKK</g:sale_price>
+      <g:google_product_category>189 - Apparel &amp; Accessories &gt; Jewelry &gt; Anklets</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Lavender</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>24192</g:id>
+      <g:title>item24192</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/24192</g:link>
+      <g:image_link>http://demofeeditems.com/image/24192</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>121 DKK</g:price>
+      <g:sale_price>36 DKK</g:sale_price>
+      <g:google_product_category>5194 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Masks</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Gold</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Paisley</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>11223</g:id>
+      <g:title>item11223</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/11223</g:link>
+      <g:image_link>http://demofeeditems.com/image/11223</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>189 DKK</g:price>
+      <g:sale_price>56 DKK</g:sale_price>
+      <g:google_product_category>5688 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Traditional Clothing Accessories &gt; Kimono Underclothes</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>SkyBlue</g:color>
+      <g:gender></g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Gingham</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>31421</g:id>
+      <g:title>item31421</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/31421</g:link>
+      <g:image_link>http://demofeeditems.com/image/31421</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>118 DKK</g:price>
+      <g:sale_price>35 DKK</g:sale_price>
+      <g:google_product_category>5941 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Leg Warmers</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Khaki</g:color>
+      <g:gender></g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Paisley</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>12875</g:id>
+      <g:title>item12875</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/12875</g:link>
+      <g:image_link>http://demofeeditems.com/image/12875</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>28 DKK</g:price>
+      <g:sale_price>8 DKK</g:sale_price>
+      <g:google_product_category>5463 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing &gt; Motorcycle Suits</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Fuchsia</g:color>
+      <g:gender></g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>40962</g:id>
+      <g:title>item40962</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/40962</g:link>
+      <g:image_link>http://demofeeditems.com/image/40962</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>189 DKK</g:price>
+      <g:sale_price>56 DKK</g:sale_price>
+      <g:google_product_category>3455 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Bicycle Activewear &gt; Bicycle Jerseys</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Brown</g:color>
+      <g:gender></g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>48399</g:id>
+      <g:title>item48399</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/48399</g:link>
+      <g:image_link>http://demofeeditems.com/image/48399</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>82 DKK</g:price>
+      <g:sale_price>24 DKK</g:sale_price>
+      <g:google_product_category>6006 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing &gt; Motorcycle Jackets</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Brown</g:color>
+      <g:gender>Male</g:gender>
+      <g:material>Wool</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>57067</g:id>
+      <g:title>item57067</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/57067</g:link>
+      <g:image_link>http://demofeeditems.com/image/57067</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>91 DKK</g:price>
+      <g:sale_price>27 DKK</g:sale_price>
+      <g:google_product_category>5624 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Baby &amp; Toddler Clothing Accessories &gt; Baby &amp; Toddler Gloves &amp; Mittens</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Charcoal</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Gingham</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>86770</g:id>
+      <g:title>item86770</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/86770</g:link>
+      <g:image_link>http://demofeeditems.com/image/86770</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>22 DKK</g:price>
+      <g:sale_price>6 DKK</g:sale_price>
+      <g:google_product_category>500118 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Costume Special Effects</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Crimson</g:color>
+      <g:gender></g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Gingham</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>61115</g:id>
+      <g:title>item61115</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/61115</g:link>
+      <g:image_link>http://demofeeditems.com/image/61115</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>12 DKK</g:price>
+      <g:sale_price>3 DKK</g:sale_price>
+      <g:google_product_category>3253 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Officiating Uniforms</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Pink</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Plaid</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>66757</g:id>
+      <g:title>item66757</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/66757</g:link>
+      <g:image_link>http://demofeeditems.com/image/66757</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59 DKK</g:price>
+      <g:sale_price>17 DKK</g:sale_price>
       <g:google_product_category>4003 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Martial Arts Uniforms</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>SkyBlue</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Nylon</g:material>
+      <g:pattern></g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>63536</g:id>
-      <g:title>item63536</g:title>
+      <g:id>26398</g:id>
+      <g:title>item26398</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/63536</g:link>
-      <g:image_link>http://demofeeditems.com/image/63536</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/26398</g:link>
+      <g:image_link>http://demofeeditems.com/image/26398</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>10 DKK</g:price>
-      <g:sale_price>3 DKK</g:sale_price>
-      <g:google_product_category>5680 - Apparel &amp; Accessories &gt; Clothing &gt; Traditional &amp; Ceremonial Clothing &gt; Kimonos &gt; Komon Kimonos</g:google_product_category>
+      <g:price>60 DKK</g:price>
+      <g:sale_price>18 DKK</g:sale_price>
+      <g:google_product_category>5004 - Animals &amp; Pet Supplies &gt; Pet Supplies &gt; Dog Supplies &gt; Dog Apparel</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:color>Cream</g:color>
+      <g:gender></g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Plaid</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>10974</g:id>
-      <g:title>item10974</g:title>
+      <g:id>41978</g:id>
+      <g:title>item41978</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/10974</g:link>
-      <g:image_link>http://demofeeditems.com/image/10974</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/41978</g:link>
+      <g:image_link>http://demofeeditems.com/image/41978</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>136 DKK</g:price>
-      <g:sale_price>40 DKK</g:sale_price>
-      <g:google_product_category>5394 - Sporting Goods &gt; Outdoor Recreation &gt; Climbing &gt; Climbing Apparel &amp; Accessories &gt; Crampons</g:google_product_category>
+      <g:price>47 DKK</g:price>
+      <g:sale_price>14 DKK</g:sale_price>
+      <g:google_product_category>5379 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Martial Arts Shorts</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Pink</g:color>
       <g:gender>Female</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Denim</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>56218</g:id>
-      <g:title>item56218</g:title>
+      <g:id>46053</g:id>
+      <g:title>item46053</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/56218</g:link>
-      <g:image_link>http://demofeeditems.com/image/56218</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/46053</g:link>
+      <g:image_link>http://demofeeditems.com/image/46053</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>79 DKK</g:price>
-      <g:sale_price>23 DKK</g:sale_price>
-      <g:google_product_category>168 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Bandanas &amp; Headties</g:google_product_category>
+      <g:price>175 DKK</g:price>
+      <g:sale_price>52 DKK</g:sale_price>
+      <g:google_product_category>5193 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costumes</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Turquoise</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Cotton</g:material>
+      <g:pattern></g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>56238</g:id>
+      <g:title>item56238</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/56238</g:link>
+      <g:image_link>http://demofeeditems.com/image/56238</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19 DKK</g:price>
+      <g:sale_price>5 DKK</g:sale_price>
+      <g:google_product_category>6463 - Apparel &amp; Accessories &gt; Jewelry &gt; Jewelry Sets</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Yellow</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Linen</g:material>
+      <g:pattern>Houndstooth</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
     <item>
-      <g:id>99369</g:id>
-      <g:title>item99369</g:title>
+      <g:id>66829</g:id>
+      <g:title>item66829</g:title>
       <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/99369</g:link>
-      <g:image_link>http://demofeeditems.com/image/99369</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>37 DKK</g:price>
-      <g:sale_price>11 DKK</g:sale_price>
-      <g:google_product_category>5834 - Apparel &amp; Accessories &gt; Clothing &gt; Underwear &amp; Socks &gt; Underwear Slips</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>83854</g:id>
-      <g:title>item83854</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/83854</g:link>
-      <g:image_link>http://demofeeditems.com/image/83854</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>199 DKK</g:price>
-      <g:sale_price>59 DKK</g:sale_price>
-      <g:google_product_category>170 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Gloves &amp; Mittens</g:google_product_category>
-      <g:product_type>Shirts &amp; Tops</g:product_type>
-      <g:brand>Brand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
-      <g:gender></g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
-      <g:size>Small/Medium/Large</g:size>
-    </item>
-    <item>
-      <g:id>55688</g:id>
-      <g:title>item55688</g:title>
-      <g:description>This is a short description of the item</g:description>
-      <g:link>http://demofeeditems.com/itemlink/55688</g:link>
-      <g:image_link>http://demofeeditems.com/image/55688</g:image_link>
+      <g:link>http://demofeeditems.com/itemlink/66829</g:link>
+      <g:image_link>http://demofeeditems.com/image/66829</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>181 DKK</g:price>
       <g:sale_price>54 DKK</g:sale_price>
-      <g:google_product_category>3958 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Sports Uniforms &gt; Hockey Uniforms</g:google_product_category>
+      <g:google_product_category>1128 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Life Jackets</g:google_product_category>
       <g:product_type>Shirts &amp; Tops</g:product_type>
       <g:brand>Brand</g:brand>
       <g:gtin>1234567890123</g:gtin>
-      <g:color>red</g:color>
+      <g:color>Blue</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Leather</g:material>
+      <g:pattern>Polka Dot</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>71377</g:id>
+      <g:title>item71377</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/71377</g:link>
+      <g:image_link>http://demofeeditems.com/image/71377</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24 DKK</g:price>
+      <g:sale_price>7 DKK</g:sale_price>
+      <g:google_product_category>499814 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel &gt; Wetsuit Pieces</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Magenta</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>70980</g:id>
+      <g:title>item70980</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/70980</g:link>
+      <g:image_link>http://demofeeditems.com/image/70980</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>167 DKK</g:price>
+      <g:sale_price>50 DKK</g:sale_price>
+      <g:google_product_category>5909 - Apparel &amp; Accessories &gt; Clothing &gt; Outerwear &gt; Snow Pants &amp; Suits</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Lavender</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Denim</g:material>
+      <g:pattern>Houndstooth</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>52578</g:id>
+      <g:title>item52578</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/52578</g:link>
+      <g:image_link>http://demofeeditems.com/image/52578</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>110 DKK</g:price>
+      <g:sale_price>33 DKK</g:sale_price>
+      <g:google_product_category>7304 - Apparel &amp; Accessories &gt; Costumes &amp; Accessories &gt; Costume Accessories &gt; Bald Caps</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Cream</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Rayon</g:material>
+      <g:pattern>Geometric</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>73905</g:id>
+      <g:title>item73905</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/73905</g:link>
+      <g:image_link>http://demofeeditems.com/image/73905</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169 DKK</g:price>
+      <g:sale_price>50 DKK</g:sale_price>
+      <g:google_product_category>499813 - Sporting Goods &gt; Outdoor Recreation &gt; Boating &amp; Water Sports &gt; Boating &amp; Water Sport Apparel</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Lavender</g:color>
       <g:gender>Male</g:gender>
-      <g:material>cotton</g:material>
-      <g:pattern>striped</g:pattern>
+      <g:material>Leather</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>99524</g:id>
+      <g:title>item99524</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/99524</g:link>
+      <g:image_link>http://demofeeditems.com/image/99524</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>53 DKK</g:price>
+      <g:sale_price>15 DKK</g:sale_price>
+      <g:google_product_category>193 - Apparel &amp; Accessories &gt; Clothing Accessories &gt; Cufflinks</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Lavender</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Silk</g:material>
+      <g:pattern>Floral</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>75627</g:id>
+      <g:title>item75627</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/75627</g:link>
+      <g:image_link>http://demofeeditems.com/image/75627</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>23 DKK</g:price>
+      <g:sale_price>6 DKK</g:sale_price>
+      <g:google_product_category>7003 - Apparel &amp; Accessories &gt; Clothing &gt; Activewear &gt; Motorcycle Protective Clothing &gt; Motorcycle Pants</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>Tan</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Nylon</g:material>
+      <g:pattern>Animal Print</g:pattern>
+      <g:size>Small/Medium/Large</g:size>
+    </item>
+    <item>
+      <g:id>21770</g:id>
+      <g:title>item21770</g:title>
+      <g:description>This is a short description of the item</g:description>
+      <g:link>http://demofeeditems.com/itemlink/21770</g:link>
+      <g:image_link>http://demofeeditems.com/image/21770</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39 DKK</g:price>
+      <g:sale_price>11 DKK</g:sale_price>
+      <g:google_product_category>5949 - Apparel &amp; Accessories &gt; Clothing &gt; Uniforms &gt; Military Uniforms</g:google_product_category>
+      <g:product_type>Shirts &amp; Tops</g:product_type>
+      <g:brand>Brand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:color>ForestGreen</g:color>
+      <g:gender>Female</g:gender>
+      <g:material>Polyester</g:material>
+      <g:pattern>Paisley</g:pattern>
       <g:size>Small/Medium/Large</g:size>
     </item>
   </channel>
