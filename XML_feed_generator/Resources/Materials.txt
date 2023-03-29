@@ -1,0 +1,10 @@
+﻿Cotton
+Wool
+Silk
+Polyester
+Nylon
+Rayon
+Linen
+Denim
+Leather
+Suede

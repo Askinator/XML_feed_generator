@@ -15,7 +15,7 @@ class ProductFeed
                 new XElement("channel",
                     new XElement("title", "Demo Google product feed"),
                     new XElement("link", "https://link_to_feed.com"),
-                    new XElement("description", "This is a reandomly generated Google product feed with 100 items"),
+                    new XElement("description", "This is a reandomly generated Google product feed with 100 apperal items."),
                     CreateElements(100))
                 ));
 
@@ -46,12 +46,15 @@ class Item
     public string brand;
     public string gtin;
     public string color;
+    public string[] colors = File.ReadAllLines("Resources/Color.txt").ToArray();
     public string gender;
+    public string[] materials = File.ReadAllLines("Resources/Materials.txt").ToArray();
     public string material;
+    public string[] patterns = File.ReadAllLines("Resources/Patterns.txt").ToArray();
     public string pattern;
     public string size;
     public static string[] google_product_categories =
-        File.ReadAllLines("GoogleProductCategories.txt").Where(line => line.Contains("Apparel")).ToArray();
+        File.ReadAllLines("Resources/GoogleProductCategories.txt").Where(line => line.Contains("Apparel")).ToArray();
     public int length = google_product_categories.Length;
 
     public Item(string id)
@@ -69,11 +72,11 @@ class Item
         this.product_type = "Shirts & Tops";
         this.brand = "Brand";
         this.gtin = "1234567890123";
-        this.color = "red";
+        this.color = colors[new Random().Next(colors.Length)];
         string[] genOptions = { "Male", "Female", "" };
         this.gender = genOptions[new Random().Next(0, genOptions.Length)];
-        this.material = "cotton";
-        this.pattern = "striped";
+        this.material = materials[new Random().Next(materials.Length)];
+        this.pattern = patterns[new Random().Next(patterns.Length)];
         this.size = "Small/Medium/Large";
     }
 
