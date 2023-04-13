@@ -12,6 +12,7 @@
     <None Remove="Resources\GoogleProductCategories.txt" />
     <None Remove="Resources\Materials.txt" />
     <None Remove="Resources\Patterns.txt" />
+    <None Remove="Resources\Pictures.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -28,6 +29,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\GoogleProductCategories.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Pictures.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

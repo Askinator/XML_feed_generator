@@ -38,6 +38,7 @@ class Item
     public string description;
     public string link;
     public string image_link;
+    public string[] image_links = File.ReadAllLines("Resources/Pictures.txt").ToArray();
     public string availability;
     public string price;
     public string sale_price;
@@ -63,7 +64,9 @@ class Item
         this.title = "item" + id;
         this.description = "This is a short description of the item";
         this.link = "http://demofeeditems.com/itemlink/" + id;
-        this.image_link = "http://demofeeditems.com/image/" + id;
+        var imageInt = new Random().Next(0, image_links.Length);
+        var imageId = image_links[imageInt];
+        this.image_link = "https://seeems.egnyte.com/dd/jmr4zUdBHI/?entryId=" + imageId;
         this.availability = "in_stock";
         var priceInt = new Random().Next(10, 200);
         this.price = priceInt + " DKK";
